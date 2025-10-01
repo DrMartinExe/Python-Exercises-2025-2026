@@ -1,1 +1,1 @@
-This is readme for week 3
+This is readme for week 3 exercises
